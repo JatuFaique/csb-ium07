@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jatufaique.github.io/csb-ium07/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://jatufaique.github.io/csb-ium07/static/js/main.db3a994c.chunk.js",
+    "main.js.map": "https://jatufaique.github.io/csb-ium07/static/js/main.db3a994c.chunk.js.map",
+    "runtime-main.js": "https://jatufaique.github.io/csb-ium07/static/js/runtime-main.b474d02b.js",
+    "runtime-main.js.map": "https://jatufaique.github.io/csb-ium07/static/js/runtime-main.b474d02b.js.map",
+    "static/js/2.ae8feaa1.chunk.js": "https://jatufaique.github.io/csb-ium07/static/js/2.ae8feaa1.chunk.js",
+    "static/js/2.ae8feaa1.chunk.js.map": "https://jatufaique.github.io/csb-ium07/static/js/2.ae8feaa1.chunk.js.map",
+    "index.html": "https://jatufaique.github.io/csb-ium07/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://jatufaique.github.io/csb-ium07/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ae8feaa1.chunk.js.LICENSE.txt": "https://jatufaique.github.io/csb-ium07/static/js/2.ae8feaa1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b474d02b.js",
+    "static/js/2.ae8feaa1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.db3a994c.chunk.js"
+  ]
+}
